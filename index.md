@@ -1,4 +1,3 @@
-# RimWorld Mod List 
 
 <nav>
   <ul>

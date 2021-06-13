@@ -1,4 +1,4 @@
-* [RimWorld Mod List](root/rimworldmodlist.md)
+* [RimWorld Mod List](rimworldmodlist.md)
 
 
 
